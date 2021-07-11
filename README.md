@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Continuous delivery](/posts/02-ci/)
+- [Writing my first blog](/posts/01-writing-my-first-blog/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.johannesprinz.com
