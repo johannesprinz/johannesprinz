@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm [Johannes][website] 👋
+
+[![Website](https://img.shields.io/website?label=johannesprinz.com&style=for-the-badge&url=https%3A%2F%2Fwww.johannesprinz.com)](https://www.johannesprinz.com)
 
 <!--
 **johannesprinz/johannesprinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Human, Father, Developer, Manager and Teacher!!
+
+- 🔭 I’m currently working on becomming a great engineering manager
+- 🌱 I’m currently learning about human behaviour
+- 👯 I’m looking to collaborate with other engineering managers
+- 🤔 I’m looking for help with more easily creating living documentation and making soft skills sexy in engineering
+- ⚡ Fun fact: Love collecting and playing strange instrument like 👃 Nose flutes.
+
+
+### Connect with me:
+
+[<img align="left" alt="www.johannesprinz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="johannesprinz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/playlist?list=PLbB0DkO_4qsTM3LAO-1d7lkvY2PtRyEpQ)
+[<img align="left" alt="johannesprinz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/pr1nzj)
+[<img align="left" alt="johannesprinz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/johannesprinz)
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[website]: https://www.johannesprinz.com
