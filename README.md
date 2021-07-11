@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="johannesprinz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/playlist?list=PLbB0DkO_4qsTM3LAO-1d7lkvY2PtRyEpQ)
 [<img align="left" alt="johannesprinz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/pr1nzj)
 [<img align="left" alt="johannesprinz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/johannesprinz)
-
----
+</br>
 
 ### 📕 Latest Blog Posts
 
