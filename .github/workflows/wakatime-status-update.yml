@@ -14,7 +14,7 @@ jobs:
       - uses: johannesprinz/johannesprinz@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: "main"
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
 
