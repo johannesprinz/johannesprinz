@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 - [Writing my first blog](/posts/01-writing-my-first-blog/)
 <!-- BLOG-POST-LIST:END -->
 
-<img src="https://github.com/johannesprinz/johannesprinz/blob/main/images/stat.svg" alt="WakaTime Activity"/>
+### Where am I spending my time?
+
+<img src="https://github.com/johannesprinz/johannesprinz/blob/wakatimeintegration/images/stat.svg" alt="WakaTime Activity"/>
 
 
 [website]: https://www.johannesprinz.com
