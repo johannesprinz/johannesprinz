@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Human, Father, Developer, Manager and Teacher!!
+## I'm a Human, Father, Creator, Leader and Teacher!!
 
-- 🔭 I’m currently working on becomming a great engineering manager
+- 🔭 I’m currently working on becomming a great engineering leader
 - 🌱 I’m currently learning about human behaviour
-- 👯 I’m looking to collaborate with other engineering managers
-- 🤔 I’m looking for help with more easily creating living documentation and making soft skills sexy in engineering
+- 👯 I’m looking to collaborate with other engineering leaders
+- 🤔 I’m exploring better ways to more easily create living documentation and making soft skills sexy in engineering
 - ⚡ Fun fact: Love collecting and playing strange instrument like 👃 Nose flutes.
 
 
