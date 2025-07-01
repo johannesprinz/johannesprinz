@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## I'm a Human, Father, Creator, Leader and Teacher!!
 
-- 🔭 I’m currently working on becomming a better engineering leader
+- 🔭 I’m currently working on becoming a better engineering leader
 - 🌱 I’m learning how AI will shape the future of Software Engineering
 - 👯 I’m looking to collaborate with other engineering leaders and engineers
 - 🤔 I’m exploring better ways to more easily create living documentation and making soft skills sexy in engineering
